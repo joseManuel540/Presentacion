@@ -6,23 +6,23 @@
 |-------|---------|
 | Nombre | `Jose Manuel Salazar Ropero` |
 | Universidad | `Universidad Popular del Cesar seccional Aguachica` |
-| Carrera | `Ingenieria en Sistemas / Informatica / etc.` |
-| Semestre | `6to semestre` |
-| Edad | `22 anios` |
-| Correo | `tucorreo@universidad.edu` |
-| GitHub | `@tu-usuario` |
-| LinkedIn | `linkedin.com/in/tu-perfil` |
+| Carrera | `Ingenieria en Sistemas` |
+| Semestre | `4to semestre` |
+| Edad | `18 anios` |
+| Correo | `jmanuelsalazar@unicesar.edu.co`|
+| GitHub | `@joseManuel540` |
+| LinkedIn | `` |
 
 ## Habilidades tecnicas
 
 **Lenguajes:**
-`Python` `JavaScript` `Java` `C++`
+`Python`  `Java` 
 
 **Frameworks y herramientas:**
-`React` `Node.js` `Git` `Docker`
+ `Git`
 
 **Bases de datos:**
-`MySQL` `MongoDB`
+
 
 ## Proyectos destacados
 
