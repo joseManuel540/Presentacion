@@ -4,7 +4,7 @@
 
 | Campo | Detalle |
 |-------|---------|
-| Nombre | `Edinson Mauricio Mendoza` |
+| Nombre | `Jose Manuel Salazar Ropero` |
 | Universidad | `Universidad Popular del Cesar seccional Aguachica` |
 | Carrera | `Ingenieria en Sistemas / Informatica / etc.` |
 | Semestre | `6to semestre` |
